@@ -8,7 +8,7 @@ Stack: Python · SciSpacy · XGBoost · LightGBM · Streamlit
 
 1. Clone: `git clone https://github.com/asthikbandari51/adr-ddi-prediction.git`
 2. Install: `pip install -r requirements.txt`
-3. Download processed data + models from Google Drive: **[DRIVE LINK HERE]**
+3. Download processed data + models from Google Drive: **[https://drive.google.com/drive/folders/1_sFdtfSrECZrxQ2FdunuM00YfOTe3aqX?usp=sharing](https://drive.google.com/drive/folders/1_sFdtfSrECZrxQ2FdunuM00YfOTe3aqX?usp=sharing)**
 4. Extract so your folder looks like:
    - `data/processed/*.csv`
    - `models/*.pkl`
