@@ -76,7 +76,7 @@ streamlit run app.py
 ---
 
 ## 🗂️ Project Structure
-adr-ddi-prediction/
+"adr-ddi-prediction/
 ├── app.py # Streamlit web UI
 ├── predict.py # Core prediction engine
 ├── requirements.txt
@@ -86,7 +86,7 @@ adr-ddi-prediction/
 │ ├── train_adr.py # ADR model training
 │ └── train_ddi.py # DDI model training
 ├── data/processed/ # ← Download from Drive
-└── models/ # ← Download from Drive
+└── models/ # ← Download from Drive"
 
 ---
 
