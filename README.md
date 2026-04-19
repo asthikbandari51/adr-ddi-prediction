@@ -76,3 +76,21 @@ streamlit run app.py
 ---
 
 ## 🗂️ Project Structure
+adr-ddi-prediction/
+├── app.py # Streamlit web UI
+├── predict.py # Core prediction engine
+├── requirements.txt
+├── src/
+│ ├── clean_data.py # Data preprocessing
+│ ├── merge_data.py # Dataset merging
+│ ├── train_adr.py # ADR model training
+│ └── train_ddi.py # DDI model training
+├── data/processed/ # ← Download from Drive
+└── models/ # ← Download from Drive
+
+---
+
+## 👥 Team
+
+**JBIET — CSE Major Project (2025–26)**  
+Team 25 — ADR & DDI Prediction System
